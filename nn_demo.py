@@ -7,3 +7,5 @@ def nonlin(x,deriv=False)
     return 1/(1+np,exp(-x))
 
     pass
+
+
